@@ -39,6 +39,32 @@
   
   <url>
     <loc>/publication_types/3/</loc>
+    <lastmod>2019-09-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/preprint/</loc>
+    <lastmod>2019-09-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/gautham-udupa/</loc>
+    <lastmod>2019-09-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2019-09-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2019-09-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/source-themes/</loc>
+    <lastmod>2019-09-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -46,31 +72,11 @@
   </url>
   
   <url>
-    <loc>/publication/preprint/</loc>
-  </url>
-  
-  <url>
-    <loc>/authors/gautham-udupa/</loc>
-  </url>
-  
-  <url>
     <loc>/post/</loc>
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-  </url>
-  
-  <url>
     <loc>/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/source-themes/</loc>
   </url>
   
 </urlset>
