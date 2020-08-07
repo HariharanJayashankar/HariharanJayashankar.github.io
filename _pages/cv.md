@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Click here for pdf version]("https://hariharanjayashankar.github.io//files/cv.pdf)
+
 # Education
 
 - **M.Sc in Economics - London School of Economics (Period: 2016-2017)**
