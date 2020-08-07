@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Hariharan Jayashankar"
-  avatar           : "./images/me.png"
+  avatar           : "me.jpg"
   bio              : "Predoctoral Fellow at NBER in Economics and Genetics"
   location         : "Mumbai, India"
   employer         :
