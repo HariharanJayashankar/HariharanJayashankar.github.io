@@ -26,7 +26,7 @@ redirect_from:
     - Relevant Coursework: *Microeconomics, Macroeconomics, Econometrics, Development Economics, International Economics, Quantitative Finance*
     - Acheivements: Received the Dean's Award for outstanding performance in Econometrics, Macroeconomics and International Economics
 
-- **Rice Math Camp for Phd Economics Students - Rice University <div style="text-align: right"> Period: 2019 </div>**
+- **Rice Math Camp for Phd Economics Students - Rice University (Period: 2019)**
     - Grade: Distinction
     - Relevant Coursework: *Real Analysis, Linear Algebra, Calculus, Optimization, Difference and Differential Equations*
 
