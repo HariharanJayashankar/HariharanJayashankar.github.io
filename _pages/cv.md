@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Click here for pdf version]("https://hariharanjayashankar.github.io//files/cv.pdf)
+[Click here for pdf version]("../files/cv.pdf)
 
 # Education
 
