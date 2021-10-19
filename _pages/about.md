@@ -14,4 +14,4 @@ I am currently an Pre-Doctoral Fellow at NBER working on Economics and Genetics 
 
 I hope to pursue a PhD in Economics soon. My wider interests are inequality, financial inclusion, and monetary policy.
 
-[CV]("files/cv.pdf")
+[CV]("./files/cv.pdf")
