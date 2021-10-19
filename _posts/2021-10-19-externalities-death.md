@@ -1,6 +1,6 @@
 ---
 title: 'Externalities, Public Policy and Seatbelts'
-date: 2012-08-14
+date: 2021-10-19
 permalink: /posts/2012/08/blog-post-1/
 tags:
     -externalities
