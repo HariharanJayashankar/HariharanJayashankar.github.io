@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-{% include base_path %}
+
 
 Hello! Welcome to my personal website.
 
@@ -16,4 +16,6 @@ I am currently an Pre-Doctoral Fellow at NBER working on Economics and Genetics 
 
 I hope to pursue a PhD in Economics soon. My wider interests are inequality, financial inclusion, and monetary policy.
 
+
+{% include base_path %}
 [CV](files/cv.pdf)
