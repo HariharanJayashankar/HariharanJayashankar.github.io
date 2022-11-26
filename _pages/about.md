@@ -14,7 +14,7 @@ Hello! Welcome to my personal website.
 
 I am currently a first year graduate student at the University of Maryland, College Park.
 
-I am pursuing a PhD in Economics soon. My wider interests are inequality, financial inclusion, and monetary policy.
+I am pursuing a PhD in Economics. My wider interests are inequality, financial inclusion, and monetary policy.
 
 
 {% include base_path %}
