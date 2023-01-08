@@ -3,11 +3,11 @@ tags: computation, story
 ---
 # Models as Stories
 
-> I'm not sure whether you will take this as a confession or a boast, but we are basically story teller, creators or make-believe economic systems. - Bob Lucas in [What Economists Do](http://home.uchicago.edu/~vlima/courses/econ203/fall01/Lucas_wedo.pdf)
+> I'm not sure whether you will take this as a confession or a boast, but we are basically story teller, creators or make-believe economic systems. - Robert Lucas in [What Economists Do](http://home.uchicago.edu/~vlima/courses/econ203/fall01/Lucas_wedo.pdf)
 
 Look at an economic model which claims to describe human behavior and you'll be greeted with constrained maximization problems, utility levels of individuals, calculus and many more things which most people in the real world have only a vague recollection of from their high school maths coursework.
 
-People don't actually compute stuff like their "first order conditions", but we think of utility maximization as simply being a story of what people do. It is *as if* people solve the maximization problem. This is the "models as stories" view. Its almost like reading a good work of science fiction which usually end up teaching us something about human behavior.
+People don't actually compute stuff like their "first order conditions", but we think of utility maximization as simply being a story of what people do. It is *as if* people solve the maximization problem. This is the "models as stories" view. Its like a good work of science fiction teaching us something about human behavior.
 
 I think this idea is pervasive across academic economics (Also see [Economic Fables]("https://archive.org/details/a5e6aa48-02ba-48e4-887f-1c100a532de8") by Rubenstein for example). 
 
