@@ -1,6 +1,3 @@
----
-tags: computation, story
----
 # Models as Stories
 
 > I'm not sure whether you will take this as a confession or a boast, but we are basically story teller, creators or make-believe economic systems. - Bob Lucas in [What Economists Do](http://home.uchicago.edu/~vlima/courses/econ203/fall01/Lucas_wedo.pdf)
