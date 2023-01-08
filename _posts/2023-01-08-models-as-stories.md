@@ -3,7 +3,7 @@ tags: computation, story
 ---
 # Models as Stories
 
-> I'm not sure whether you will take this as a confession or a boast, but we are basically story teller, creators or make-believe economic systems. - Robert Lucas in [What Economists Do](http://home.uchicago.edu/~vlima/courses/econ203/fall01/Lucas_wedo.pdf)
+> I'm not sure whether you will take this as a confession or a boast, but we are basically story teller, creators of make-believe economic systems. - Robert Lucas in [What Economists Do](http://home.uchicago.edu/~vlima/courses/econ203/fall01/Lucas_wedo.pdf)
 
 Look at an economic model which claims to describe human behavior and you'll be greeted with constrained maximization problems, utility levels of individuals, calculus and many more things which most people in the real world have only a vague recollection of from their high school maths coursework.
 
